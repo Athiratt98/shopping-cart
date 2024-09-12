@@ -1,0 +1,45 @@
+form {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 300px;
+  }
+  
+  .form input {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .form .first-name{
+    width: calc(33.33% - 10px);
+  }
+  .form .last-name,
+  .form .age {
+    width: calc(33.33% - 10px);
+    margin-left: 10px; /* Each field takes 1/3 of the row, accounting for the gap */
+  }
+  
+  .form .address {
+    width: 100%; /* Address takes full width of the form */
+  }
+  
+  .form .place-of-work{
+    width: calc(50% - 10px);
+    margin-right: 10px;
+  }
+  .form .job-title {
+    width: calc(50% - 10px); /* Each field takes 1/2 of the row */
+  }
+  
+  .form .phone-number,
+  .form .skype {
+    width: calc(50% - 10px); /* Each field takes 1/2 of the row */
+  }
+  
+  .form button {
+    width: 100%; /* Button takes full width of the form */
+    padding: 10px;
+  }
+  
+  .form input, .form button {
+    margin-top: 10px; /* Adding margin between inputs and button */
+  }

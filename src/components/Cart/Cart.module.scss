@@ -1,0 +1,20 @@
+.cart {
+    display: flex;
+    flex-direction: column;
+    height: 85%;
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    align-items: center;
+  
+  }
+
+  .cartContainer {
+    display: flex;
+    // flex-direction: column;
+    height: 22%;
+    background-color:white;
+    width: 32%;
+    align-items: center;
+    margin-bottom: 2rem;
+  }

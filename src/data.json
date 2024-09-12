@@ -1,0 +1,100 @@
+{
+  "gadgets": [
+    {
+      "id": "1",
+      "name": "iPhone 15pro",
+      "brand": "Apple",
+      "price": 200000,
+      "description": "A high-end smartphone with a stunning display and powerful performance.",
+      "image_url": "https://m.media-amazon.com/images/I/41zb7hwFUmL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Realme 11pro 5G",
+      "brand": "Realme",
+      "price": 50000,
+      "description": "Premium smartPhone with noise cancellation and long battery life.",
+      "image_url": "https://pngimg.com/uploads/smartphone/smartphone_PNG8494.png"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy M35 5G ",
+      "brand": "Samsung",
+      "price": 79999,
+      "description": "smartPhone with advanced color accuracy and smart features.",
+      "image_url": "https://th.bing.com/th/id/OIP.YUuMqCOvWf8yVt-e1HMH7gHaJQ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "4",
+      "name": "OPPO F27 5G ",
+      "brand": "oppo",
+      "price": 1299.99,
+      "description": "A lightweight smartPhone processor and high-resolution display.",
+      "image_url": "https://news-cdn.softpedia.com/images/news2/DROID-Turbo-Goes-Global-as-Motorola-Moto-Maxx-464207-3.jpg"
+    },
+    {
+      "id": "5",
+      "name": "iQOO Z9 Lite 5G",
+      "brand": "iQOO",
+      "price": 29999,
+      "description": "Smartwatch with fitness tracking, GPS, and customizable watch faces.",
+      "image_url": "https://news-cdn.softpedia.com/images/news2/DROID-Turbo-Goes-Global-as-Motorola-Moto-Maxx-464207-3.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Redmi 13C 5G",
+      "brand": "Redmi",
+      "price": 99999,
+      "description": "A high-end smartphone with a stunning display and powerful performance.",
+      "image_url": "https://th.bing.com/th/id/OIP.IKJCpGjp36w-y5R7G0X1vwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7",
+      "name": "iQOO Z9s 5G",
+      "brand": "iQOO",
+      "price": 199999,
+      "description": "Premium wireless earbuds with noise cancellation and long battery life.",
+      "image_url": "https://pngimg.com/uploads/smartphone/smartphone_PNG8494.png"
+    },
+    {
+      "id": "8",
+      "name": "Redmi Note 13 5G",
+      "brand": "Redmi",
+      "price": 467799,
+      "description": "smartphone with advanced color accuracy and smart features.",
+      "image_url": "https://th.bing.com/th/id/OIP.YUuMqCOvWf8yVt-e1HMH7gHaJQ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "9",
+      "name": "Xiaomi 14 CIVI ",
+      "brand": "Xiaomi",
+      "price": 1299699,
+      "description": "A lightweight laptop with a powerful processor and high-resolution display.",
+      "image_url": "https://m.media-amazon.com/images/I/41hUFOt8YPL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Redmi Note 13 Pro+",
+      "brand": "Redmi",
+      "price": 29999,
+      "description": "Smartwatch with fitness tracking, GPS, and customizable watch faces.",
+      "image_url": "https://news-cdn.softpedia.com/images/news2/DROID-Turbo-Goes-Global-as-Motorola-Moto-Maxx-464207-3.jpg"
+    },
+    {
+      "id": "10",
+      "name": "OnePlus Nord 4 5G",
+      "brand": "CompuWorld",
+      "price": 1299879,
+      "description": "A lightweight laptop with a powerful processor and high-resolution display.",
+      "image_url": "https://m.media-amazon.com/images/I/6175SlKKECL._SX679_.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Apple iPhone 15 Pro Max",
+      "brand": "WearTech",
+      "price": 29999,
+      "description": "Smartwatch with fitness tracking, GPS, and customizable watch faces.",
+      "image_url": "https://news-cdn.softpedia.com/images/news2/DROID-Turbo-Goes-Global-as-Motorola-Moto-Maxx-464207-3.jpg"
+    }
+  ]
+}
